@@ -28,7 +28,7 @@
       "category": "时政",
       "time": "2018-09-07 10:35:43",
       "isHot": false,
-      "isRec": false
+      "isRec": true
     },
     {
       "id": 3,
@@ -58,12 +58,12 @@
       "category": "体育",
       "time": "2018-09-06 19:45:11",
       "isHot": false,
-      "isRec": true
+      "isRec": false
     },
     {
       "id": 6,
       "title": "恒大全面大降价，商铺、公寓直接6折出售，开发商随时准备大撤退",
-      "thumbnail": "./static/images/i06-th.jpg",
+      "thumbnail": "./static/images/i07-th.jpg",
       "source": "郑州楼市观察",
       "category": "财经",
       "time": "2018-09-03 22:58:49",
@@ -73,7 +73,7 @@
     {
       "id": 7,
       "title": "滴滴急刹车！创业6年亏390亿元，程维确认亏损 丨新京报财讯",
-      "thumbnail": "./static/images/i07-th.jpg",
+      "thumbnail": "./static/images/i08-th.jpg",
       "source": "新京报",
       "category": "财经",
       "time": "2018-09-07 13:39:32",
@@ -83,7 +83,7 @@
     {
       "id": 8,
       "title": "应采儿和黄磊都给工作人员吃剩菜，一个被骂一个被赞，差距在这里",
-      "thumbnail": "./static/images/i08-th.jpg",
+      "thumbnail": "./static/images/i09-th.jpg",
       "source": "彩虹呱呱",
       "category": "娱乐",
       "time": "2018-09-04 14:25:00",
@@ -93,7 +93,7 @@
     {
       "id": 9,
       "title": "40岁冯绍峰和31岁赵丽颖在香港购物被偶遇，这次终于是正面照了！",
-      "thumbnail": "./static/images/i09-th.jpg",
+      "thumbnail": "./static/images/i10-th.jpg",
       "source": "方舟先生",
       "category": "娱乐",
       "time": "2018-09-03 23:16:47",
