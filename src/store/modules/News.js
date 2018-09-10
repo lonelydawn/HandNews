@@ -27,7 +27,7 @@ const actions = {
 }
 
 export default {
-  namespaced: true,
+  namespaced: true, // 声明为独立命名空间
   state,
   getters,
   mutations,

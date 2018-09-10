@@ -28,11 +28,6 @@
   import { mapGetters, mapActions } from 'vuex'
   export default {
     name: 'NewsPage',
-    data () {
-      return {
-
-      }
-    },
     mounted () {
       this.$nextTick(function () {
         this.getNews({

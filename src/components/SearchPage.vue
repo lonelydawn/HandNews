@@ -15,6 +15,7 @@
       <span class="btn-search" @click="toResult">搜&nbsp;索</span>
     </div>
     <div class="content">
+      <!-- 根据历史记录关键字列表是否为空进行判断 -->
       <div class="search-banner" v-if="recordKeywords.length">
         <div class="banner-title">
           <span>历史记录</span>
